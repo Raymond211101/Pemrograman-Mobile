@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "813838391222",
+    "project_id": "pertemuan7-b20-2009106057",
+    "storage_bucket": "pertemuan7-b20-2009106057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813838391222:android:6e8a0f724d363b2e905317",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan7_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813838391222-dlflsobas8obt8toktpednrrfj9f1ulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTh3tVNpAXM1pFbjjM4GBt6yCL8dGaN_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813838391222-dlflsobas8obt8toktpednrrfj9f1ulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813838391222:android:1105d04e4cd5e4e2905317",
+        "android_client_info": {
+          "package_name": "com.example.raymondjonathan_2009106057"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813838391222-dlflsobas8obt8toktpednrrfj9f1ulg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTh3tVNpAXM1pFbjjM4GBt6yCL8dGaN_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813838391222-dlflsobas8obt8toktpednrrfj9f1ulg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
